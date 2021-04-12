@@ -4,7 +4,7 @@ In this section, you will include one or two paragraphs providing an overview of
 
 For example, Love Maths is a site that hopes to demonstrate how pure JavaScript works in a real-world context. The site will be targeted toward people who not only love to implement more advanced JavaScript concepts but also maths. Love Maths is a fully responsive JavaScript maths game that will allow users to add, subtract, multiply and divide numbers. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup](media/love_maths_mockup.png)
 
 ## Features 
 
@@ -16,34 +16,27 @@ In this section, you should go over the different parts of your project, and des
 
   - Featured at the top of the page, the Love Maths logo and heading is easy to see for the user. Upon viewing the page, the user will be able to see the name of the game.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
-
-- __The landing page image__
-
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
-
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Logo](media/love_maths_logo.png)
 
 - __The Game Area__
 
   - This section will allow the user to play the maths game. The user will be able to easily see icons for addition,  subtraction, multiplication, and division games.
   - The user will be able to select the type of maths game they will be playing by clicking on the different icons. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Game](media/love_maths_icons.png)
 
 - __The Question section__
 
   - The question section is where the user will be able to see the elementary arithmetic question to answer as part of the game. The user will be able answer the questions in the answer box provide
   - The user will be able to submit their answer and a pop-up will make it known to the user if they answered correctly. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Question](media/love_maths_question.png)
 
 - __The Score Area__
 
   - This section will allow the user to see exactly how many correct and incorrect answers they have provided. 
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![score](media/love_maths_answer.png)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
